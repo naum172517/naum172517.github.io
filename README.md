@@ -22,6 +22,8 @@
 </ul> 
 </ul>   Телефон (звоните, хочу вести активную студенческую жизнь): <b>+79251717376</b>
 </div> 
+ E-mail: <i>naum1725@gmail.com</i>
+</div> 
 <li><p><a href= "https://vk.com/hsemem">мемтут</a></p></li> 
 <div class="footer"> 
 <p><a href = "https://vk.com/supernaum">&copy; 2017 — Naumkina Web Production</a></p> 
