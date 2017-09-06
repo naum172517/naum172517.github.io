@@ -1,6 +1,7 @@
-<!doctype html</p>
-<head> 
-<meta charset="utf-8" /> 
+ <!doctype html>
+  <html>
+    <head>
+      <meta charset="utf-8">
  <left><h1>Анастасия Наумкина</h1></left>
 <link rel="stylesheet" href="style.css" /> 
 </head> 
