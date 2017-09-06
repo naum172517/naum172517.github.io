@@ -2,7 +2,7 @@
 <html> 
 <head> 
 <meta charset="utf-8"> 
-<title>Анастасия Наумкина</title> 
+ <left><h1>Анастасия Наумкина</h1></left>
 <link rel= "stylesheet" href= "style.css"> 
 </head> 
 <body> 
