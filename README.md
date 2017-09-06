@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <p>&lt;!doctype html</p>
 <html> 
 <head> 
@@ -24,6 +23,6 @@
 <ul> 
 &lt;/div&gt; 
 <div class="footer"> 
-<p><a href="https://vk.com/id107301511 ">&copy; 2017 — Naumkina Web Production</a></p> 
+<p><a href="https://https://vk.com/supernaum ">&copy; 2017 — Naumkina Web Production</a></p> 
   </body>
 </html>
