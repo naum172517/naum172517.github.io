@@ -6,6 +6,7 @@
 <link rel= "stylesheet" href= "style.css"> 
 </head> 
 <body> 
+<body backgraund="back1.jpg">
 <div class="name"> 
 <div>Анастасия Наумкина</div> 
 </div> 
