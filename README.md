@@ -25,5 +25,3 @@
 <div class="footer"> 
 <p><a href = "https://vk.com/id107301511 ">&copy; 2017 — Naumkina Web Production</a></p> 
 </div> 
-</body> 
-</html>
