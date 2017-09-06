@@ -25,15 +25,5 @@
 &lt;/div&gt; 
 <div class="footer"> 
 <p><a href="https://vk.com/id107301511 ">&copy; 2017 — Naumkina Web Production</a></p> 
-    &lt;/body&gt;
-  &lt;/html&gt;
-
-</div></ul></div></body></html>
-
-
-      
-    </div>
-    <script src="/assets/javascript/anchor-js/anchor.min.js"></script>
-    <script>anchors.add();</script>
   </body>
 </html>
