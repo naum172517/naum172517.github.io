@@ -25,5 +25,6 @@
 <li><p><a href= "https://vk.com/hsemem">мемтут</a></p></li> 
 <div class="footer"> 
 <p><a href = "https://vk.com/supernaum">&copy; 2017 — Naumkina Web Production</a></p> 
+</div> 
 </body> 
 </html>
