@@ -9,8 +9,7 @@
 <div class="name"> 
 <div>Анастасия Наумкина</div> 
 </div> 
-<div class="content"> 
-Живу в общежитии номер 10 и очень люблю цифровую грамотность ( нет ) 
+<div class="content"> Живу в общежитии номер 10 и очень люблю цифровую грамотность ( нет ) 
 <div class= "img_r"> 
 <img src="R6ZdVINA-zw.jpg"> 
 </div> 
