@@ -1,4 +1,4 @@
-<!doctype html
+<!doctype html>
 <html> 
 <head> 
 <meta charset="utf-8"> 
@@ -21,8 +21,7 @@
 <li><p><a href="https://vk.com/supernaum">Вконтакте</a></p></li> 
 </ul>  Телефон ( чтобы звать в дубки ) : <b>+79251717376..........</b>
 <ul> 
-</div> 
-<div class="footer"> 
+<div class="fooer"> 
 <p><a href = "https://vk.com/id107301511 ">&copy; 2017 — Naumkina Web Production</a></p> 
     </body>
   </html>
