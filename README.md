@@ -11,7 +11,7 @@
 <div>Анастасия Наумкина</div> 
 </div> 
 <div class="content"> 
-Живу в общежитии номер 10 и очень люблю цыфровую грамотность (нет)
+Живу в общежитии номер 10 и очень люблю цифровую грамотность (нет)
 <div class= "img_r"> 
 <img src="R6ZdVINA-zw.jpg"> 
 </div> 
@@ -21,7 +21,7 @@
 <ul> 
 <li><p><a href="https://vk.com/supernaum">Вконтакте</a></p></li> 
 </ul>  Телефон ( чтобы звать в дубки ) : <b>+79251717376..........</b>
-  
+<ul> 
 </div> 
 <div class="footer"> 
 <p><a href = "https://vk.com/id107301511 ">&copy; 2017 — Naumkina Web Production</a></p> 
