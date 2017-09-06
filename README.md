@@ -1,29 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>naum172517.github.io</title>
-<meta property="og:title" content="naum172517.github.io" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://naum172517.github.io/" />
-<meta property="og:url" content="https://naum172517.github.io/" />
-<meta property="og:site_name" content="naum172517.github.io" />
-<script type="application/ld+json">
-{"name":"naum172517.github.io","description":null,"author":null,"@type":"WebSite","url":"https://naum172517.github.io/","image":null,"publisher":null,"headline":"naum172517.github.io","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link href="/assets/css/style.css?v=26562d77df254366adc020df268821f98581499e" rel="stylesheet">
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-        <h1><a href="https://naum172517.github.io/">naum172517.github.io</a></h1>
-      
-
-      <p>&lt;!doctype html</p>
+<p>&lt;!doctype html</p>
 <html> 
 <head> 
 <meta charset="utf-8" /> 
