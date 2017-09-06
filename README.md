@@ -1,5 +1,4 @@
 <!doctype html</p>
-<html> 
 <head> 
 <meta charset="utf-8" /> 
  <left><h1>Анастасия Наумкина</h1></left>
